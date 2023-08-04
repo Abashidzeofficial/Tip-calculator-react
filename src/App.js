@@ -32,7 +32,7 @@ function App() {
 
   return (
     <div className="wrapper">
-      <img src={logo} className="logo" />
+      <img src={logo} className="logo" alt="logo"/>
       <div className="container">
         <Form
           bill={bill}
