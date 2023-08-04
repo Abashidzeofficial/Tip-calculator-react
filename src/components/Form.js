@@ -21,7 +21,7 @@ function Form({ bill, setBill, tip, setTip, people, setPeople }) {
             onInput={(e) => setBill(+e.target.value)}
             id="input-bill"
           ></input>
-          <img src={dollarIcon} className="icon" />
+          <img src={dollarIcon} className="icon" alt="dollarIcon" />
         </div>
       </div>
       <div className="tip-section">
@@ -107,7 +107,7 @@ function Form({ bill, setBill, tip, setTip, people, setPeople }) {
               id="input-people"
               onInput={(e) => setPeople(+e.target.value)}
             ></input>
-            <img src={personIcon} className="icon" />
+            <img src={personIcon} className="icon"alt="Personal" />
           </div>
         </div>
       </div>
