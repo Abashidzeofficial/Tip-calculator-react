@@ -24,5 +24,4 @@ The Tip Calculator project was created as a personal project to enhance my skill
 - JavaScript: The programming language used to add interactivity and functionality to the application.
 
   ## Author
-
 - Giorgi abashidze
