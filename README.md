@@ -23,5 +23,13 @@ The Tip Calculator project was created as a personal project to enhance my skill
 - CSS: The styling language used to design the user interface.
 - JavaScript: The programming language used to add interactivity and functionality to the application.
 
+- ## Contribution
+
+  If you'd like to contribute to the project, you're more than welcome! Here are a few ways you can get involved:
+
+- Report issues or suggest enhancements by creating GitHub issues.
+- Fork the repository, make changes, and submit pull requests for review.
+- Share your ideas and feedback to help improve the app's functionality and design.
+
   ## Author
 - Giorgi abashidze
