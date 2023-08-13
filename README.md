@@ -16,12 +16,13 @@ The Tip Calculator project was created as a personal project to enhance my skill
 - Instantly see the calculated tip amount and total bill amount
 - Responsive design for seamless usage on various devices
 
-  
- ##  Built with
-- React.js: A JavaScript library for building user interfaces.
-- HTML: The markup language used for structuring the web application.
-- CSS: The styling language used to design the user interface.
-- JavaScript: The programming language used to add interactivity and functionality to the application.
+
+- ## Technologies Used
+
+- React: A JavaScript library for building user interfaces.
+- HTML5 and CSS3: Modern web technologies for structuring and styling the application.
+- Git: Version control system for tracking changes and collaborating with others.
+- GitHub Actions (Optional): Automate your workflow with GitHub Actions for seamless deployment.
 
 - ## Contribution
 
